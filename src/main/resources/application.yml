@@ -1,5 +1,5 @@
 spring:
   application:
-    name: test-api-2
+    name: test-api-3
 server:
   port: 8989
