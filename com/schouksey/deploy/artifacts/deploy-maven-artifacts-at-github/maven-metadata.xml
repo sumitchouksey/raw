@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.schouksey.deploy.artifacts</groupId>
+  <artifactId>deploy-maven-artifacts-at-github</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20171118195255</lastUpdated>
+  </versioning>
+</metadata>
